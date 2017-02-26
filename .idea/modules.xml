@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-utils.iml" filepath="$PROJECT_DIR$/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excelutil/excelutil.iml" filepath="$PROJECT_DIR$/excelutil/excelutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailutil/mailutil.iml" filepath="$PROJECT_DIR$/mailutil/mailutil.iml" />
+    </modules>
+  </component>
+</project>
