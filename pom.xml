@@ -16,6 +16,7 @@
     <modules>
         <module>excelutil</module>
         <module>mailutil</module>
+        <module>utils</module>
     </modules>
 
 
